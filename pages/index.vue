@@ -498,8 +498,8 @@
                               class="ga-events"
                               data-eventcategory="Mail from footer"
                               data-eventaction="Click to action"
-                              data-eventlabel="info@lurc.ac.bd"
-                              href="mailto:info@lurc.ac.bd"
+                              data-eventlabel="njlisa25@gmail.com"
+                              href="mailto:njlisa25@gmail.com"
                               ><i class="fa-solid fa-envelope"></i></a
                           ></span>
                           <span class="num"
@@ -602,12 +602,12 @@
                         <h6 class="name"><span> JAVA </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 80%">
+                          <div class="dot" style="width: 75%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">80 <span>%</span></span>
+                          <span class="num">75 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -715,12 +715,12 @@
                         <h6 class="name"><span> Android </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 50%">
+                          <div class="dot" style="width: 45%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">50 <span>%</span></span>
+                          <span class="num">45 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -842,12 +842,12 @@
                         <h6 class="name"><span> Firebase </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 20%">
+                          <div class="dot" style="width: 30%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">20 <span>%</span></span>
+                          <span class="num">30 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -874,12 +874,12 @@
                         <h6 class="name"><span> Microsoft Office </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 50%">
+                          <div class="dot" style="width: 60%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">50 <span>%</span></span>
+                          <span class="num">60 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -1332,7 +1332,7 @@
                         style="visibility: visible"
                       >
                         <h6 class="name l-collapse-btn active">
-                          <span> <!-- -->S.S.C<!-- --> </span>
+                          <span> <!-- -->S.S.C.<!-- --> </span>
                         </h6>
                         <div class="history-content">
                           <div class="subname">
@@ -1930,8 +1930,8 @@
                             class="ga-events"
                             data-eventcategory="Mail from footer"
                             data-eventaction="Click to action"
-                            data-eventlabel="info@lurc.ac.bd"
-                            href="mailto:info@lurc.ac.bd"
+                            data-eventlabel="njlisa25@gmail.com"
+                            href="mailto:njlisa25@gmail.com"
                           >
                             njlisa25@gmail.com
                           </a>
