@@ -1,0 +1,96 @@
+// Add variables here
+@use '../abstracts/variables' as *;
+@use '../abstracts/mixins' as *;
+
+.error-section {
+    background-color: var(--bgSecondaryBlue);
+}
+.error-404-content {
+    margin-top: 0;
+
+    .title {
+        font-size: 65px;
+        font-weight: 400;
+        line-height: 1;
+        margin-bottom: 25px;
+    }
+
+    .sub-title {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+
+    p {
+        margin-bottom: 16px;
+    }
+
+    .error-button {
+        margin-top: 30px;
+        border: 1px solid var(--borderColor);
+        transition: all .5s ease;
+        padding-left: 50px;
+        padding-right: 50px;
+        height: 70px;
+        line-height: 70px;
+        border-radius: 35px;
+        font-size: 15px;
+        text-align: center;
+        position: relative;
+        z-index: 9;
+        overflow: hidden;
+        color: var(--primaryColor);
+        box-shadow: none !important;
+        outline: 0 !important;
+        display: inline-block;
+
+        i {
+            padding-right: 10px;
+        }
+
+        &:hover {
+            background-color: var(--borderColor);
+        }
+    }
+}
+
+@include breakpoint-max(991px) {
+    .error-404-content {
+        .title {
+            font-size: 45px;
+        }
+
+        .sub-title {
+            font-size: 24px;
+        }
+
+        .error-button {
+            padding-left: 40px;
+            padding-right: 40px;
+            height: 60px;
+            line-height: 55px;
+        }
+    }
+}
+
+@include breakpoint-max(767px) {
+    .error-section {
+        .row {
+            gap: 60px;
+        }
+    }
+    .error-404-content .title {
+        font-size: 40px;
+    }
+}
+@include breakpoint-max(575px) {
+    .error-404-content {
+        .title {
+            font-size: 36px;
+        }
+        .error-button {
+            padding-left: 20px;
+            padding-right: 20px;
+            height: 55px;
+        }
+    }
+}

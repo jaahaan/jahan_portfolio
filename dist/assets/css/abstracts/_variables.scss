@@ -1,0 +1,15 @@
+@use "../abstracts/mixins" as *;
+
+:root {
+  --primaryColor: #f5f5f5;
+  --secondaryColor: #566d7e;
+  // --secondaryColor: #29a587;
+  --bg-overlay: rgb(33, 39, 48, 0.9);
+  --bgDarkBlue: #222831;
+  --bgSecondaryBlue: #2a2c39;
+  --bgLightBlue: #30313d;
+  --borderColor: #3b3d49;
+  --bgSingleItem: #282a37;
+  --buttonbg: #2e303d;
+  --active: rgb(196, 209, 56);
+}

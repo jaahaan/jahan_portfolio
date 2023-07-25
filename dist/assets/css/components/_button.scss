@@ -1,0 +1,83 @@
+// // Add variables here
+// @use '../abstracts/variables' as *;
+// @use '../abstracts/mixins' as *;
+
+// button {
+//     border: 0;
+//     background: transparent;
+// }
+
+// .main-button {
+//     border: 1px solid var(--borderColor);
+//     transition: all .5s ease;
+//     padding-left: 40px;
+//     padding-right: 40px;
+//     border-radius: 35px;
+//     line-height: 60px;
+//     text-align: center;
+//     position: relative;
+//     z-index: 9;
+//     overflow: hidden;
+//     color: var(--primaryColor);
+//     box-shadow: none !important;
+//     outline: 0 !important;
+//     &:hover {
+//         background-color: var(--borderColor);
+//     }
+//     i {
+//         padding-left: 10px;
+//         font-size: 18px;
+//     }
+// }
+
+// .btn-outline-one:hover {
+//     background-color: var(--borderColor);
+//     border: 1px solid var(--borderColor);
+// }
+
+// .btn-outline-one {
+//     border: 1px solid var(--borderColor);
+//     transition: all .5s ease;
+// }
+
+// .btn-sm {
+//     padding-left: 40px;
+//     padding-right: 40px;
+//     height: 65px;
+//     border-radius: 32.5px;
+//     line-height: 60px;
+// }
+
+// .btn {
+//     text-align: center;
+//     position: relative;
+//     z-index: 9;
+//     overflow: hidden;
+//     color: var(--primaryColor);
+//     box-shadow: none !important;
+//     outline: 0 !important;
+// }
+// .btn-xl {
+//     padding-left: 60px;
+//     padding-right: 60px;
+//     height: 85px;
+//     line-height: 70px;
+//     border-radius: 42.5px;
+// }
+
+// // RESPONSIVE
+
+// @include breakpoint-max(1199px) {
+//     .btn-xl {
+//         padding-left: 40px;
+//         padding-right: 40px;
+//         height: 60px;
+//         line-height: 50px;
+//     }
+// }
+// @include breakpoint-max(575px){
+//     .main-button {
+//         padding-left: 30px;
+//         padding-right: 30px;
+//     }
+// }
