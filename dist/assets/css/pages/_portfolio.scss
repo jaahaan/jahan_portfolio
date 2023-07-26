@@ -1011,7 +1011,7 @@ hr {
   max-width: 1300px;
 }
 
-.l-section {
+.section {
   padding-bottom: 120px;
 }
 
@@ -2093,12 +2093,12 @@ hr {
   max-width: 1180px;
 }
 
-.l-section-map {
+.section-map {
   padding-bottom: 0;
   line-height: 0;
 }
 
-.l-section-map iframe {
+.section-map iframe {
   width: 100%;
   height: 580px;
 }
@@ -2170,17 +2170,17 @@ hr {
   z-index: 2;
 }
 
-.l-gradient-top {
+.gradient-top {
   background-color: transparent;
   background-image: linear-gradient(0deg, #ffffff 0%, #f0ebe3 100%);
 }
 
-.l-gradient-bottom {
+.gradient-bottom {
   background-color: transparent;
   background-image: linear-gradient(180deg, #ffffff 0%, #f0ebe3 100%);
 }
 
-.l-gradient-center {
+.gradient-center {
   background-color: transparent;
   background-image: linear-gradient(180deg, #f0ebe3 0%, #f0ebe3 100%);
 }
@@ -2348,23 +2348,23 @@ hr {
 * Section Hero Started
 **/
 
-.l-section-hero {
+.section-hero {
   padding-bottom: 180px;
 }
 
-.l-section-hero .container {
+.section-hero .container {
   max-width: 1300px;
   min-height: 100vh;
   display: flex;
   align-items: center;
 }
 
-.l-section-hero .container .l-started {
+.section-hero .container .started {
   width: 100%;
   animation: slideTop 1s ease forwards;
 }
 
-.l-section-hero .container .l-started .l-bgtitle {
+.section-hero .container .started .l-bgtitle {
   top: 50px;
 }
 
@@ -2843,7 +2843,7 @@ hr {
 **/
 
 .section-inner.started-heading
-  + .l-section
+  + .section
   .projects-box
   .scrolla-element-anim-1 {
   opacity: 1;
@@ -4633,10 +4633,10 @@ a.wp-block-button__link {
 }
 
 @media screen and (max-width: 767px) {
-  .l-section {
+  .section {
     padding-bottom: 120px;
   }
-  .l-section-hero {
+  .section-hero {
     padding-bottom: 120px;
   }
   .container {
