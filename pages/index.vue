@@ -275,10 +275,10 @@
         <div class="wrapper">
           <section
             id="started-section"
-            class="l-section l-section-hero l-gradient-top"
+            class="section section-hero gradient-top"
           >
             <div class="container">
-              <div class="l-started v-line v-line-left">
+              <div class="started v-line v-line-left">
                 <div class="section hero-started">
                   <div
                     data-animate="active"
@@ -396,29 +396,6 @@
                           further.
                         </p>
                       </div>
-                      <!-- <div class="social-links">
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          href="https://www.facebook.com/jaaahaaan/"
-                        >
-                          <i
-                            aria-hidden="true"
-                            class="lab la-facebook-f"
-                          ></i></a
-                        ><a
-                          target="_blank"
-                          rel="nofollow"
-                          href="https://www.linkedin.com/in/-jaahaan-/"
-                          ><i aria-hidden="true" class="lab la-linkedin-in"></i
-                        ></a>
-                        <a
-                          target="_blank"
-                          rel="nofollow"
-                          href="https://github.com/jaahaan"
-                          ><i class="lab la-github"></i
-                        ></a>
-                      </div> -->
                     </div>
                     <div class="bts">
                       <a
@@ -528,7 +505,7 @@
             </div>
           </section>
 
-          <section class="l-section l-gradient-bottom" id="skills-section">
+          <section class="section gradient-bottom" id="skills-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -921,7 +898,7 @@
               </div>
             </div>
           </section>
-          <section class="l-section l-gradient-center" id="projects-section">
+          <section class="section gradient-center" id="projects-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1218,7 +1195,7 @@
               </div>
             </div>
           </section>
-          <section class="l-section l-gradient-top" id="resume-section">
+          <section class="section gradient-top" id="resume-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1406,10 +1383,7 @@
               </div>
             </div>
           </section>
-          <section
-            class="l-section l-gradient-bottom"
-            id="achievements-section"
-          >
+          <section class="section gradient-bottom" id="achievements-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1422,9 +1396,9 @@
                     <span>
                       <span
                         class="word"
-                        data-word="Contact"
+                        data-word="Extra-curricular"
                         style="--word-index: 0"
-                        >Extra
+                        >Extra-curricular
                       </span>
                     </span>
                   </h2>
@@ -1437,16 +1411,16 @@
                     <span
                       ><span
                         class="word"
-                        data-word="Curricular"
+                        data-word="Activities"
                         style="--word-index: 0"
-                        >Curricular
+                        >Activities
                       </span>
                       <b
                         ><span
                           class="word"
-                          data-word="activities"
+                          data-word="And Achievements"
                           style="--word-index: 2"
-                          >Activities
+                          >And Achievements
                         </span></b
                       ></span
                     >
@@ -1599,7 +1573,7 @@
               </div>
             </div>
           </section>
-          <section class="l-section l-gradient-center" id="interests-section">
+          <section class="section gradient-center" id="interests-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1735,7 +1709,7 @@
               </div>
             </div>
           </section>
-          <section class="l-section l-gradient-top" id="contact-section">
+          <section class="section gradient-top" id="contact-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
