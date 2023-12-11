@@ -226,7 +226,7 @@
               >
                 <div
                   class="bg-img"
-                  style="background-image: url(assets/img/pat-1.png)"
+                  style="background-image: url(assets/img/dot-1.png)"
                 ></div>
                 <div class="contacts-form">
                   <form id="cform">
