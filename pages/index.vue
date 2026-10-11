@@ -235,12 +235,15 @@
                           </div>
                           <div class="menu-social-links">
                             <a
-                              href="https://www.facebook.com/jaaahaaan/"
-                              target="blank"
-                              title="facebook"
+                              data-eventcategory="Mail from footer"
+                              data-eventaction="Click to action"
+                              data-eventlabel="njlisa25@gmail.com"
+                              href="mailto:njlisa25@gmail.com"
                               class="scrolla-element-anim-1"
-                              ><i class="lab la-facebook-f"></i></a
-                            ><a
+                              ><i class="fa-solid fa-envelope"></i
+                            ></a>
+
+                            <a
                               href="https://www.linkedin.com/in/-jaahaan-/"
                               target="blank"
                               title="linkedin"
@@ -379,21 +382,25 @@
                     <div class="description">
                       <div>
                         <p>
-                          I go by Lisa, but my official name is Nargish Jahan,
-                          which appears in all my legal documents. Over the
-                          years, I have consistently demonstrated my expertise
-                          in crafting websites and creating innovative Android
-                          applications. I am passionate about pushing the
-                          boundaries of technology and constantly seek new
-                          challenges to expand my knowledge and expertise
-                          further.
+                          I go by Lisa, while my official name is Nargish Jahan,
+                          which appears on all my legal and academic documents.
+                          I am currently working as an Adjunct Lecturer in the
+                          Department of Computer Science and Engineering at
+                          Leading University. With a strong background in
+                          software development, web technologies, and Android
+                          application development, I am passionate about
+                          teaching and helping students develop practical
+                          computing skills. Alongside teaching, I am interested
+                          in exploring emerging technologies, conducting
+                          research, and continuously expanding my knowledge
+                          through new challenges and innovative projects.
                         </p>
                       </div>
                     </div>
                     <div class="bts">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1rK6OF-mooDtQUti1Y-etMeNnmJX-hUEt/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/1YqukcqSZuOtEW-qQgEexvJe_KcjI_JWP/view?usp=sharing"
                         class="btn"
                         ><span>Download Resume</span></a
                       >
@@ -412,7 +419,7 @@
                   >
                     <img
                       decoding="async"
-                      src="assets/img/profile2.png"
+                      src="assets/img/profile.png"
                       alt="<b>Nargish</b> Jahan"
                     />
                     <span class="circle circle-1"> </span>
@@ -435,14 +442,6 @@
                             ><a
                               target="_blank"
                               rel="nofollow"
-                              href="https://www.facebook.com/jaaahaaan/"
-                            >
-                              <i class="fa-brands fa-facebook"></i></a
-                          ></span>
-                          <span class="num"
-                            ><a
-                              target="_blank"
-                              rel="nofollow"
                               href="https://www.linkedin.com/in/-jaahaan-/"
                               ><i class="fa-brands fa-linkedin"></i></a
                           ></span>
@@ -453,16 +452,6 @@
                               href="https://github.com/jaahaan"
                               ><i class="fa-brands fa-github"></i></a
                           ></span>
-                        </li>
-                        <li>
-                          <span class="num"
-                            ><a
-                              target="_blank"
-                              rel="nofollow"
-                              href="https://www.instagram.com/jaahaan_lisaa/"
-                            >
-                              <i class="fa-brands fa-instagram"></i></a
-                          ></span>
                           <span class="num"
                             ><a
                               class="ga-events"
@@ -472,17 +461,21 @@
                               href="mailto:njlisa25@gmail.com"
                               ><i class="fa-solid fa-envelope"></i></a
                           ></span>
-                          <span class="num"
+                        </li>
+                        <li>
+                          <!-- <span class="num"
                             ><a
                               target="_blank"
                               rel="nofollow"
-                              href="https://goo.gl/maps/rnoiUvgq6Lv4MxS66"
+                              href="https://maps.app.goo.gl/PAn99Gs81FPu56zB7?g_st=ac"
                               ><i class="fa-solid fa-location-dot"></i></a
+                          ></span> -->
+                          <span class="num"
+                            ><i class="fa-solid fa-lightbulb"></i
                           ></span>
-                          <!-- <span class="num">6 <strong>+</strong></span
-                          ><span class="value"
-                            >Completed <strong>Projects</strong></span
-                          > -->
+                          <span class="value"
+                            >Creative <strong>Thinker</strong></span
+                          >
                         </li>
                       </ul>
                     </div>
@@ -497,8 +490,338 @@
               </div>
             </div>
           </section>
+          <section class="section gradient-bottom" id="resume-section">
+            <div class="l-heading reveal">
+              <div class="container">
+                <div class="m-titles align-center">
+                  <h2
+                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 1; visibility: visible"
+                  >
+                    <span>
+                      <span
+                        class="word"
+                        data-word="Resume"
+                        style="--word-index: 0"
+                        >Resume</span
+                      >
+                    </span>
+                  </h2>
+                  <div
+                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 2; visibility: visible"
+                  >
+                    <span
+                      ><span class="word" data-word="my" style="--word-index: 0"
+                        >my</span
+                      >
+                      <b
+                        ><span
+                          class="word"
+                          data-word="Story"
+                          style="--word-index: 1"
+                          >Story</span
+                        ></b
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="v-line v-line-left reveal">
+              <div class="container">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span> Education </span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span> B.Sc. in CSE </span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span>Leading University</span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span> 2019 - 2022 </span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>South Surma, Sylhet, Bangladesh</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span> H.S.C. </span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span> Brindaban Govt. College </span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span> 2016 - 2018 </span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>Habiganj Sadar, Sylhet, Bangladesh</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span> S.S.C. </span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span> B. K. G. C. Govt. Girls’ High School </span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span> 2008 - 2016 </span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>Habiganj Sadar, Sylhet, Bangladesh</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span> Experience </span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Adjunct Lecturer, Department of CSE</span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span>Leading University</span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span>Aug 2023 - <b>Present</b></span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>South Surma, Sylhet, Bangladesh</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div
+                          class="dot-bg-img"
+                          style="background-image: url(assets/img/dot-1.png)"
+                        ></div>
+                        <div class="hero-shape hero-bottom-shape">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Web Developer (Internship)</span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span>TECHOFIC</span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span>Aug 2022 - Jul 2023</span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>Sylhet, Bangladesh</p>
+                              <!-- <p>• Backend API using Laravel, AdonisJS.</p>
+                              <p>• Frontend using VueJS and NuxtJS.</p>
+                              <p>• MySql Database.</p>
+                              <p>• Git, GitHub.</p> -->
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="l-bgtitle"><span> History </span></div>
+              </div>
+            </div>
+          </section>
+          <section class="section gradient-center" id="interests-section">
+            <div class="l-heading reveal">
+              <div class="container">
+                <div class="m-titles align-center">
+                  <h2
+                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 1; visibility: visible"
+                  >
+                    <span>
+                      <span
+                        class="word"
+                        data-word="INTERESTS"
+                        style="--word-index: 0"
+                        >INTERESTS</span
+                      >
+                    </span>
+                  </h2>
+                  <div
+                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 2; visibility: visible"
+                  >
+                    <span
+                      ><span class="word" data-word="my" style="--word-index: 0"
+                        >my</span
+                      >
+                      <b
+                        ><span
+                          class="word"
+                          data-word="Passion"
+                          style="--word-index: 1"
+                          >Passion</span
+                        ></b
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
 
-          <section class="section gradient-bottom" id="skills-section">
+            <div class="v-line v-line-left reveal">
+              <div class="container">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span>Research Interests</span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Privacy and Security</span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Machine Learning</span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Software Development</span>
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span>Hobbies</span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Reading</span>
+                        </h6>
+                        <div
+                          class="dot-bg-img"
+                          style="background-image: url(assets/img/dot-1.png)"
+                        ></div>
+                        <div class="hero-shape hero-bottom-shape">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Coding</span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Cycling</span>
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="l-bgtitle"><span> Interests </span></div>
+              </div>
+            </div>
+          </section>
+          <section class="section gradient-top" id="skills-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -513,7 +836,7 @@
                         class="word"
                         data-word="Professional"
                         style="--word-index: 0"
-                        >Professional </span
+                        >Technical </span
                       ><span class="whitespace"> </span
                       ><span
                         class="word"
@@ -569,17 +892,34 @@
                         data-animate="active"
                         style="visibility: visible"
                       >
-                        <h6 class="name"><span> JAVA </span></h6>
+                        <h6 class="name"><span> Dart </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 75%">
+                          <div class="dot" style="width: 80%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">75 <span>%</span></span>
+                          <span class="num">80 <span>%</span></span>
                         </div>
                       </div>
+                      <div
+                        class="skills-item scrolla-element-anim-1 scroll-animate animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name"><span> JAVA </span></h6>
+
+                        <div class="dots">
+                          <div class="dot" style="width: 80%">
+                            <span></span>
+                          </div>
+                        </div>
+                        <div class="value">
+                          <span class="num">80 <span>%</span></span>
+                        </div>
+                      </div>
+
                       <div
                         class="skills-item scrolla-element-anim-1 scroll-animate animate__active"
                         data-animate="active"
@@ -636,12 +976,12 @@
                         <h6 class="name"><span> Python </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 20%">
+                          <div class="dot" style="width: 40%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">20 <span>%</span></span>
+                          <span class="num">40 <span>%</span></span>
                         </div>
                       </div>
 
@@ -677,6 +1017,22 @@
                       >
                     </div>
                     <div class="skills-items">
+                      <div
+                        class="skills-item scrolla-element-anim-1 scroll-animate animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name"><span> Flutter </span></h6>
+
+                        <div class="dots">
+                          <div class="dot" style="width: 70%">
+                            <span></span>
+                          </div>
+                        </div>
+                        <div class="value">
+                          <span class="num">70 <span>%</span></span>
+                        </div>
+                      </div>
                       <div
                         class="skills-item scrolla-element-anim-1 scroll-animate animate__active"
                         data-animate="active"
@@ -733,12 +1089,12 @@
                         <h6 class="name"><span> ReactJS </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 20%">
+                          <div class="dot" style="width: 10%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">20 <span>%</span></span>
+                          <span class="num">10 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -749,12 +1105,12 @@
                         <h6 class="name"><span> Django </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 20%">
+                          <div class="dot" style="width: 10%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">20 <span>%</span></span>
+                          <span class="num">10 <span>%</span></span>
                         </div>
                       </div>
 
@@ -811,6 +1167,22 @@
                         style="visibility: visible"
                       >
                         <h6 class="name"><span> Firebase </span></h6>
+
+                        <div class="dots">
+                          <div class="dot" style="width: 30%">
+                            <span></span>
+                          </div>
+                        </div>
+                        <div class="value">
+                          <span class="num">30 <span>%</span></span>
+                        </div>
+                      </div>
+                      <div
+                        class="skills-item scrolla-element-anim-1 scroll-animate animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name"><span> Supabase </span></h6>
 
                         <div class="dots">
                           <div class="dot" style="width: 30%">
@@ -892,7 +1264,7 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-center" id="projects-section">
+          <section class="section gradient-bottom" id="projects-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -934,6 +1306,7 @@
                 </div>
               </div>
             </div>
+
             <div class="v-line v-line-right reveal">
               <div class="container">
                 <div class="projects-box">
@@ -951,6 +1324,60 @@
                         :wheelControl="false"
                         :infiniteScroll="false"
                       >
+                        <slide>
+                          <div class="project-single--item">
+                            <div class="img-box">
+                              <div class="bg-overlay"></div>
+                              <div class="bg-image">
+                                <img src="assets/img/schedXIcon.png" alt="" />
+                              </div>
+                              <div class="demo-item">
+                                <div class="image img">
+                                  <img src="assets/img/schedXIcon.png" alt="" />
+                                  <a
+                                    target="_blank"
+                                    href="https://github.com/jaahaan/SchedX.git"
+                                    ><i
+                                      class="fa-solid fa-arrow-up-right-from-square icon"
+                                    ></i
+                                  ></a>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="desc">
+                              <span class="category"> Flutter App </span>
+                              <h5 class="name">
+                                SchedX
+                                <!-- <a href="/work-single">SchedX</a> -->
+                              </h5>
+                              <div class="text">
+                                <p>
+                                  • Description: A customized routine management
+                                  app for the CSE Department of Leading
+                                  University. It extracts information from
+                                  routine Excel sheets, allowing students and
+                                  faculty to create personalized routines and
+                                  access faculty information and day-off
+                                  schedules.<br />
+                                  • Technical Skills: Flutter, Dart, Firebase.
+                                </p>
+                              </div>
+                              <!-- <a
+                                class="lnk"
+                                target="_blank"
+                                href="https://github.com/jaahaan/Cryptanalyst"
+                                >Source Code</a
+                              > -->
+                            </div>
+                            <div
+                              class="bg-img"
+                              style="
+                                background-image: url('assets/img/dot-2.png');
+                              "
+                            ></div>
+                          </div>
+                        </slide>
                         <slide>
                           <div class="project-single--item">
                             <div class="img-box">
@@ -1189,202 +1616,7 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-top" id="resume-section">
-            <div class="l-heading reveal">
-              <div class="container">
-                <div class="m-titles align-center">
-                  <h2
-                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 1; visibility: visible"
-                  >
-                    <span>
-                      <span
-                        class="word"
-                        data-word="Resume"
-                        style="--word-index: 0"
-                        >Resume</span
-                      >
-                    </span>
-                  </h2>
-                  <div
-                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 2; visibility: visible"
-                  >
-                    <span
-                      ><span class="word" data-word="my" style="--word-index: 0"
-                        >my</span
-                      >
-                      <b
-                        ><span
-                          class="word"
-                          data-word="Story"
-                          style="--word-index: 1"
-                          >Story</span
-                        ></b
-                      ></span
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="v-line v-line-left reveal">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span> Education </span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span> B.Sc. in CSE </span>
-                        </h6>
-                        <div class="history-content">
-                          <div class="subname">
-                            <span>Leading University</span>
-                          </div>
-                          <div class="date l-subtitle">
-                            <span> 2019 - 2022 </span>
-                          </div>
-                          <div class="text">
-                            <div>
-                              <p>Ragibnagar, Sylhet, Bangladesh</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span> H.S.C. </span>
-                        </h6>
-                        <div class="history-content">
-                          <div class="subname">
-                            <span> Brindaban Govt. College </span>
-                          </div>
-                          <div class="date l-subtitle">
-                            <span> 2016 - 2018 </span>
-                          </div>
-                          <div class="text">
-                            <div>
-                              <p>Habiganj Sadar, Sylhet, Bangladesh</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span> S.S.C. </span>
-                        </h6>
-                        <div class="history-content">
-                          <div class="subname">
-                            <span> B. K. G. C. Govt. Girls’ High School </span>
-                          </div>
-                          <div class="date l-subtitle">
-                            <span> 2008 - 2016 </span>
-                          </div>
-                          <div class="text">
-                            <div>
-                              <p>Habiganj Sadar, Sylhet, Bangladesh</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span> Experience </span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Adjunct Lecturer, Department of CSE</span>
-                        </h6>
-                        <div class="history-content">
-                          <div class="subname">
-                            <span>Leading University</span>
-                          </div>
-                          <div class="date l-subtitle">
-                            <span>Aug 2023 - <b>Present</b></span>
-                          </div>
-                          <div class="text">
-                            <div>
-                              <p>Ragibnagar, Sylhet, Bangladesh</p>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="dot-bg-img"
-                          style="background-image: url(assets/img/dot-1.png)"
-                        ></div>
-                        <div class="hero-shape hero-bottom-shape">
-                          <span></span>
-                          <span></span>
-                          <span></span>
-                        </div>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Web Developer (Internship)</span>
-                        </h6>
-                        <div class="history-content">
-                          <div class="subname">
-                            <span>TECHOFIC</span>
-                          </div>
-                          <div class="date l-subtitle">
-                            <span>Aug 2022 - Jul 2023</span>
-                          </div>
-                          <div class="text">
-                            <div>
-                              <p>Remote</p>
-                              <!-- <p>• Backend API using Laravel, AdonisJS.</p>
-                              <p>• Frontend using VueJS and NuxtJS.</p>
-                              <p>• MySql Database.</p>
-                              <p>• Git, GitHub.</p> -->
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="l-bgtitle"><span> History </span></div>
-              </div>
-            </div>
-          </section>
-          <section class="section gradient-bottom" id="achievements-section">
+          <section class="section gradient-center" id="achievements-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1505,6 +1737,10 @@
                         data-animate="active"
                         style="visibility: visible"
                       >
+                        <div
+                          class="dot-bg-img"
+                          style="background-image: url(assets/img/dot-1.png)"
+                        ></div>
                         <h6 class="name l-collapse-btn active">
                           <span>General Member</span>
                         </h6>
@@ -1566,142 +1802,7 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-center" id="interests-section">
-            <div class="l-heading reveal">
-              <div class="container">
-                <div class="m-titles align-center">
-                  <h2
-                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 1; visibility: visible"
-                  >
-                    <span>
-                      <span
-                        class="word"
-                        data-word="INTERESTS"
-                        style="--word-index: 0"
-                        >INTERESTS</span
-                      >
-                    </span>
-                  </h2>
-                  <div
-                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 2; visibility: visible"
-                  >
-                    <span
-                      ><span class="word" data-word="my" style="--word-index: 0"
-                        >my</span
-                      >
-                      <b
-                        ><span
-                          class="word"
-                          data-word="Passion"
-                          style="--word-index: 1"
-                          >Passion</span
-                        ></b
-                      ></span
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="v-line v-line-left reveal">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span>Research Interests</span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span> Cryptography </span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Privacy and Security</span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Theory of Computation</span>
-                        </h6>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span>Hobbies</span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Reading</span>
-                        </h6>
 
-                        <div
-                          class="dot-bg-img"
-                          style="background-image: url(assets/img/dot-1.png)"
-                        ></div>
-                        <div class="hero-shape hero-bottom-shape">
-                          <span></span>
-                          <span></span>
-                          <span></span>
-                        </div>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Teaching</span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Cycling</span>
-                        </h6>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="l-bgtitle"><span> Interests </span></div>
-              </div>
-            </div>
-          </section>
           <section class="section gradient-top" id="contact-section">
             <div class="l-heading reveal">
               <div class="container">
@@ -1780,7 +1881,8 @@
                         <div class="title"><span> Address </span></div>
                         <div class="l-text">
                           <span>
-                            Master Quarter, Habiganj Sadar, Sylhet, Bangladesh
+                            127/1 West Kajalshah, Bagbari Road, Sylhet,
+                            Bangladesh
                           </span>
                         </div>
                       </div>
@@ -1927,15 +2029,17 @@
                       <div class="footer-contact row">
                         <div class="single-item col-auto">
                           <a
-                            target="_blank"
-                            rel="nofollow"
-                            href="https://www.facebook.com/jaaahaaan/"
+                            data-eventcategory="Mail from footer"
+                            data-eventaction="Click to action"
+                            data-eventlabel="njlisa25@gmail.com"
+                            href="mailto:njlisa25@gmail.com"
                           >
                             <i
                               aria-hidden="true"
-                              class="lab la-facebook-f"
-                            ></i></a
-                          ><a
+                              class="fa-solid fa-envelope"
+                            ></i
+                          ></a>
+                          <a
                             target="_blank"
                             rel="nofollow"
                             href="https://www.linkedin.com/in/-jaahaan-/"
@@ -1979,10 +2083,10 @@
 import "animate.css";
 import {
   Hooper,
-  Slide,
-  Progress as HooperProgress,
-  Pagination as HooperPagination,
   Navigation as HooperNavigation,
+  Pagination as HooperPagination,
+  Progress as HooperProgress,
+  Slide,
 } from "hooper";
 import "hooper/dist/hooper.css";
 
@@ -1996,7 +2100,7 @@ export default {
   },
   data() {
     return {
-      typer: ["Teacher", "Software Engineer"],
+      typer: ["Lecturer", "Software Engineer"],
       isSidebar: false,
       userInfo: [],
       ServiceTitle: [],
