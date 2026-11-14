@@ -9,11 +9,6 @@ export default {
    ** See https://nuxtjs.org/api/configuration-target
    */
   target: "static",
-
-  router: {
-    base: "/jahan_portfolio/",
-  },
-
   ssr: false,
   generate: {
     fallback: true,
@@ -34,23 +29,10 @@ export default {
       },
     ],
     link: [
-      {
-        rel: "icon",
-        type: "image/x-icon",
-        href: "/jahan_portfolio/favicon.ico",
-      },
-      {
-        rel: "stylesheet",
-        href: "/jahan_portfolio/assets/css/vendor/bootstrap.min.css",
-      },
-      {
-        rel: "stylesheet",
-        href: "/jahan_portfolio/assets/css/vendor/lineicons.css",
-      },
-      {
-        rel: "stylesheet",
-        href: "/jahan_portfolio/assets/css/vendor/line-awesome.min.css",
-      },
+      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "stylesheet", href: "/assets/css/vendor/bootstrap.min.css" },
+      { rel: "stylesheet", href: "/assets/css/vendor/lineicons.css" },
+      { rel: "stylesheet", href: "/assets/css/vendor/line-awesome.min.css" },
       {
         rel: "stylesheet",
         href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
