@@ -235,15 +235,12 @@
                           </div>
                           <div class="menu-social-links">
                             <a
-                              data-eventcategory="Mail from footer"
-                              data-eventaction="Click to action"
-                              data-eventlabel="njlisa25@gmail.com"
-                              href="mailto:njlisa25@gmail.com"
+                              href="https://lus.ac.bd/author/nargish/"
+                              target="blank"
+                              title="Profile"
                               class="scrolla-element-anim-1"
-                              ><i class="fa-solid fa-envelope"></i
-                            ></a>
-
-                            <a
+                              ><i class="fa-solid fa-building-columns"></i></a
+                            ><a
                               href="https://www.linkedin.com/in/-jaahaan-/"
                               target="blank"
                               title="linkedin"
@@ -384,23 +381,23 @@
                         <p>
                           I go by Lisa, while my official name is Nargish Jahan,
                           which appears on all my legal and academic documents.
-                          I am currently working as an Adjunct Lecturer in the
-                          Department of Computer Science and Engineering at
-                          Leading University. With a strong background in
-                          software development, web technologies, and Android
-                          application development, I am passionate about
-                          teaching and helping students develop practical
-                          computing skills. Alongside teaching, I am interested
-                          in exploring emerging technologies, conducting
-                          research, and continuously expanding my knowledge
-                          through new challenges and innovative projects.
+                          I am currently working as a Lecturer in the Department
+                          of Computer Science and Engineering at Leading
+                          University. With a strong background in software
+                          development, web technologies, and Android application
+                          development, I am passionate about teaching and
+                          helping students develop practical computing skills.
+                          Alongside teaching, I am interested in exploring
+                          emerging technologies, conducting research, and
+                          continuously expanding my knowledge through new
+                          challenges and innovative projects.
                         </p>
                       </div>
                     </div>
                     <div class="bts">
                       <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/1YqukcqSZuOtEW-qQgEexvJe_KcjI_JWP/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1YqukcqSZuOtEW-qQgEexvJe_KcjI_JWP/view?usp=drive_link"
                         class="btn"
                         ><span>Download Resume</span></a
                       >
@@ -442,15 +439,34 @@
                             ><a
                               target="_blank"
                               rel="nofollow"
-                              href="https://www.linkedin.com/in/-jaahaan-/"
-                              ><i class="fa-brands fa-linkedin"></i></a
+                              href="https://lus.ac.bd/author/nargish/"
+                            >
+                              <i class="fa-solid fa-building-columns"></i></a
                           ></span>
+                          <span class="num"
+                            ><a
+                              target="_blank"
+                              rel="nofollow"
+                              href="https://deepnetlab.com/team/ad1a92aa-8b4d-49f8-ac27-bc85d12396bd"
+                            >
+                              <i class="fa-solid fa-flask"></i> </a
+                          ></span>
+
                           <span class="num"
                             ><a
                               target="_blank"
                               rel="nofollow"
                               href="https://github.com/jaahaan"
                               ><i class="fa-brands fa-github"></i></a
+                          ></span>
+                        </li>
+                        <li>
+                          <span class="num"
+                            ><a
+                              target="_blank"
+                              rel="nofollow"
+                              href="https://www.linkedin.com/in/-jaahaan-/"
+                              ><i class="fa-brands fa-linkedin"></i></a
                           ></span>
                           <span class="num"
                             ><a
@@ -461,21 +477,17 @@
                               href="mailto:njlisa25@gmail.com"
                               ><i class="fa-solid fa-envelope"></i></a
                           ></span>
-                        </li>
-                        <li>
-                          <!-- <span class="num"
+                          <span class="num"
                             ><a
                               target="_blank"
                               rel="nofollow"
-                              href="https://maps.app.goo.gl/PAn99Gs81FPu56zB7?g_st=ac"
+                              href="https://goo.gl/maps/rnoiUvgq6Lv4MxS66"
                               ><i class="fa-solid fa-location-dot"></i></a
-                          ></span> -->
-                          <span class="num"
-                            ><i class="fa-solid fa-lightbulb"></i
                           ></span>
-                          <span class="value"
-                            >Creative <strong>Thinker</strong></span
-                          >
+                          <!-- <span class="num">6 <strong>+</strong></span
+                          ><span class="value"
+                            >Completed <strong>Projects</strong></span
+                          > -->
                         </li>
                       </ul>
                     </div>
@@ -561,7 +573,7 @@
                           </div>
                           <div class="text">
                             <div>
-                              <p>South Surma, Sylhet, Bangladesh</p>
+                              <p>Ragibnagar, Sylhet, Bangladesh</p>
                             </div>
                           </div>
                         </div>
@@ -638,7 +650,7 @@
                           </div>
                           <div class="text">
                             <div>
-                              <p>South Surma, Sylhet, Bangladesh</p>
+                              <p>Ragibnagar, Sylhet, Bangladesh</p>
                             </div>
                           </div>
                         </div>
@@ -651,6 +663,37 @@
                           <span></span>
                           <span></span>
                         </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Research Mentor, DeepNet Lab</span>
+                        </h6>
+                        <div class="history-content">
+                          <div class="subname">
+                            <span>Leading University</span>
+                          </div>
+                          <div class="date l-subtitle">
+                            <span>June 2026 - <b>Present</b></span>
+                          </div>
+                          <div class="text">
+                            <div>
+                              <p>Ragibnagar, Sylhet, Bangladesh</p>
+                            </div>
+                          </div>
+                        </div>
+                        <!-- <div
+                          class="dot-bg-img"
+                          style="background-image: url(assets/img/dot-1.png)"
+                        ></div>
+                        <div class="hero-shape hero-bottom-shape">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </div> -->
                       </div>
                       <div
                         class="history-item l-collapse-item scroll-animate opened animate__active"
@@ -669,7 +712,7 @@
                           </div>
                           <div class="text">
                             <div>
-                              <p>Sylhet, Bangladesh</p>
+                              <p>Remote</p>
                               <!-- <p>• Backend API using Laravel, AdonisJS.</p>
                               <p>• Frontend using VueJS and NuxtJS.</p>
                               <p>• MySql Database.</p>
@@ -685,143 +728,7 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-center" id="interests-section">
-            <div class="l-heading reveal">
-              <div class="container">
-                <div class="m-titles align-center">
-                  <h2
-                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 1; visibility: visible"
-                  >
-                    <span>
-                      <span
-                        class="word"
-                        data-word="INTERESTS"
-                        style="--word-index: 0"
-                        >INTERESTS</span
-                      >
-                    </span>
-                  </h2>
-                  <div
-                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
-                    data-splitting="words"
-                    data-animate="active"
-                    style="--word-total: 2; visibility: visible"
-                  >
-                    <span
-                      ><span class="word" data-word="my" style="--word-index: 0"
-                        >my</span
-                      >
-                      <b
-                        ><span
-                          class="word"
-                          data-word="Passion"
-                          style="--word-index: 1"
-                          >Passion</span
-                        ></b
-                      ></span
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="v-line v-line-left reveal">
-              <div class="container">
-                <div class="row">
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span>Research Interests</span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Privacy and Security</span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Machine Learning</span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Software Development</span>
-                        </h6>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                    <h5
-                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
-                      data-animate="active"
-                      style="visibility: visible"
-                    >
-                      <span>Hobbies</span>
-                    </h5>
-                    <div class="history-items">
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Reading</span>
-                        </h6>
-                        <div
-                          class="dot-bg-img"
-                          style="background-image: url(assets/img/dot-1.png)"
-                        ></div>
-                        <div class="hero-shape hero-bottom-shape">
-                          <span></span>
-                          <span></span>
-                          <span></span>
-                        </div>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Coding</span>
-                        </h6>
-                      </div>
-                      <div
-                        class="history-item l-collapse-item scroll-animate opened animate__active"
-                        data-animate="active"
-                        style="visibility: visible"
-                      >
-                        <h6 class="name l-collapse-btn active">
-                          <span>Cycling</span>
-                        </h6>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="l-bgtitle"><span> Interests </span></div>
-              </div>
-            </div>
-          </section>
-          <section class="section gradient-top" id="skills-section">
+          <section class="section gradient-center" id="skills-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -836,7 +743,7 @@
                         class="word"
                         data-word="Professional"
                         style="--word-index: 0"
-                        >Technical </span
+                        >Professional </span
                       ><span class="whitespace"> </span
                       ><span
                         class="word"
@@ -976,12 +883,12 @@
                         <h6 class="name"><span> Python </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 40%">
+                          <div class="dot" style="width: 20%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">40 <span>%</span></span>
+                          <span class="num">20 <span>%</span></span>
                         </div>
                       </div>
 
@@ -1089,12 +996,12 @@
                         <h6 class="name"><span> ReactJS </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 10%">
+                          <div class="dot" style="width: 20%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">10 <span>%</span></span>
+                          <span class="num">20 <span>%</span></span>
                         </div>
                       </div>
                       <div
@@ -1105,12 +1012,12 @@
                         <h6 class="name"><span> Django </span></h6>
 
                         <div class="dots">
-                          <div class="dot" style="width: 10%">
+                          <div class="dot" style="width: 20%">
                             <span></span>
                           </div>
                         </div>
                         <div class="value">
-                          <span class="num">10 <span>%</span></span>
+                          <span class="num">20 <span>%</span></span>
                         </div>
                       </div>
 
@@ -1264,7 +1171,7 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-bottom" id="projects-section">
+          <section class="section gradient-top" id="projects-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1306,7 +1213,6 @@
                 </div>
               </div>
             </div>
-
             <div class="v-line v-line-right reveal">
               <div class="container">
                 <div class="projects-box">
@@ -1616,7 +1522,8 @@
               </div>
             </div>
           </section>
-          <section class="section gradient-center" id="achievements-section">
+
+          <section class="section gradient-bottom" id="achievements-section">
             <div class="l-heading reveal">
               <div class="container">
                 <div class="m-titles align-center">
@@ -1737,10 +1644,6 @@
                         data-animate="active"
                         style="visibility: visible"
                       >
-                        <div
-                          class="dot-bg-img"
-                          style="background-image: url(assets/img/dot-1.png)"
-                        ></div>
                         <h6 class="name l-collapse-btn active">
                           <span>General Member</span>
                         </h6>
@@ -1802,7 +1705,142 @@
               </div>
             </div>
           </section>
+          <section class="section gradient-center" id="interests-section">
+            <div class="l-heading reveal">
+              <div class="container">
+                <div class="m-titles align-center">
+                  <h2
+                    class="m-title splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 1; visibility: visible"
+                  >
+                    <span>
+                      <span
+                        class="word"
+                        data-word="INTERESTS"
+                        style="--word-index: 0"
+                        >INTERESTS</span
+                      >
+                    </span>
+                  </h2>
+                  <div
+                    class="m-subtitle splitting-text-anim-1 scroll-animate words splitting animate__active"
+                    data-splitting="words"
+                    data-animate="active"
+                    style="--word-total: 2; visibility: visible"
+                  >
+                    <span
+                      ><span class="word" data-word="my" style="--word-index: 0"
+                        >my</span
+                      >
+                      <b
+                        ><span
+                          class="word"
+                          data-word="Passion"
+                          style="--word-index: 1"
+                          >Passion</span
+                        ></b
+                      ></span
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="v-line v-line-left reveal">
+              <div class="container">
+                <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span>Research Interests</span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span> Cryptography </span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Privacy and Security</span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Theory of Computation</span>
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <h5
+                      class="history-title scrolla-element-anim-1 scroll-animate animate__active"
+                      data-animate="active"
+                      style="visibility: visible"
+                    >
+                      <span>Hobbies</span>
+                    </h5>
+                    <div class="history-items">
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Reading</span>
+                        </h6>
 
+                        <div
+                          class="dot-bg-img"
+                          style="background-image: url(assets/img/dot-1.png)"
+                        ></div>
+                        <div class="hero-shape hero-bottom-shape">
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </div>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Teaching</span>
+                        </h6>
+                      </div>
+                      <div
+                        class="history-item l-collapse-item scroll-animate opened animate__active"
+                        data-animate="active"
+                        style="visibility: visible"
+                      >
+                        <h6 class="name l-collapse-btn active">
+                          <span>Cycling</span>
+                        </h6>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="l-bgtitle"><span> Interests </span></div>
+              </div>
+            </div>
+          </section>
           <section class="section gradient-top" id="contact-section">
             <div class="l-heading reveal">
               <div class="container">
@@ -1881,7 +1919,7 @@
                         <div class="title"><span> Address </span></div>
                         <div class="l-text">
                           <span>
-                            127/1 West Kajalshah, Bagbari Road, Sylhet,
+                            Anik-36, Master Quarter, Habiganj Sadar, Sylhet,
                             Bangladesh
                           </span>
                         </div>
@@ -2029,15 +2067,21 @@
                       <div class="footer-contact row">
                         <div class="single-item col-auto">
                           <a
-                            data-eventcategory="Mail from footer"
-                            data-eventaction="Click to action"
-                            data-eventlabel="njlisa25@gmail.com"
-                            href="mailto:njlisa25@gmail.com"
+                            target="_blank"
+                            rel="nofollow"
+                            href="https://lus.ac.bd/author/nargish/"
                           >
                             <i
                               aria-hidden="true"
-                              class="fa-solid fa-envelope"
+                              class="fa-solid fa-building-columns"
                             ></i
+                          ></a>
+                          <a
+                            target="_blank"
+                            rel="nofollow"
+                            href="https://deepnetlab.com/team/ad1a92aa-8b4d-49f8-ac27-bc85d12396bd"
+                          >
+                            <i aria-hidden="true" class="fa-solid fa-flask"></i
                           ></a>
                           <a
                             target="_blank"
